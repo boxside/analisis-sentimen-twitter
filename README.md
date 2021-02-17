@@ -12,7 +12,10 @@ jumlah tweet : 382/???
 
 ## HASIL
 analisa ini menggunakan metode Rule-based sentiment analysis, yang mana menilai kalimat berdasarkan kamus sentimen, lalu nilai tersebut dijumlahkan. maka didapatkan distribusi nilai sentimen sebagai berikut:
+
+
 ![Figure 2](https://github.com/boxside/analisis-sentimen-twitter/blob/main/figure/distribusi.png)
+
 
 setelah didapatkan nilai sentimen, lalu kita melakukan labeling untuk setiap tweet, dimana bila bernilai <0 maka sentimen tweet "negatif",bila nilai = 0 maka "netral" dan bila nilai>0 maka sentimen tweet "positif", didapat alokasi sentimen sebagai berikut:
 
