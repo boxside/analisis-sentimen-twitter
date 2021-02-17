@@ -16,6 +16,14 @@ analisa ini menggunakan metode Rule-based sentiment analysis, yang mana menilai 
 
 setelah didapatkan nilai sentimen, lalu kita melakukan labeling untuk setiap tweet, dimana bila bernilai <0 maka sentimen tweet "negatif",bila nilai = 0 maka "netral" dan bila nilai>0 maka sentimen tweet "positif", didapat alokasi sentimen sebagai berikut:
 
+
 ![Figure 3](https://github.com/boxside/analisis-sentimen-twitter/blob/main/figure/segmen.png)
+
+lalu persebaran jumlah sentimen pada setiap tanggal adalah :
+
+
 ![Figure 4](https://github.com/boxside/analisis-sentimen-twitter/blob/main/figure/date.png)
+
+
+
 ![Figure 5](https://github.com/boxside/analisis-sentimen-twitter/blob/main/figure/hour.png)
